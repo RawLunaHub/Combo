@@ -29,3 +29,7 @@ else
     
     return G2L["1"], require;
 end
+--[[
+ComboText = "F+3 LMBs+E+Y or F+G+Y+3 LMBs+E+R"
+player = game.Players.LocalPlayer
+--]]
